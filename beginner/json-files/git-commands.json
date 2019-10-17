@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git status",
+    "description": "Shows the state of the working directory such as staged files, files being tracked and those not being tracked. Also helps in seeing the changes being made in the repo"
   }
 ]
